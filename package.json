@@ -1,0 +1,14 @@
+ {
+  "name": "cloudflare_work",
+  "version": "1.0.0",
+  "description": "CloudFlare_FakeAPI",
+  "main": "index.js",
+  "scripts": {
+    "jsonServer": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}

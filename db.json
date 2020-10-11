@@ -1,0 +1,7 @@
+{
+	"links": [
+		{"name":"google", "url": "google.com"},
+		{"name":"LinkedIn", "url": "linkedin.com"},
+		{"name":"bing", "url": "bing.com"}
+	]
+}
