@@ -1,7 +1,7 @@
 {
 	"links": [
-		{"name":"google", "url": "google.com"},
-		{"name":"LinkedIn", "url": "linkedin.com"},
-		{"name":"bing", "url": "bing.com"}
+		{"name":"google", "url": "https://www.google.com/"},
+		{"name":"LinkedIn", "url": "https://www.linkedin.com/in/talhakhanaca/"},
+		{"name":"github", "url": "https://github.com/"}
 	]
 }
